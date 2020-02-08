@@ -1,2 +1,0 @@
-# Akhila
-self
